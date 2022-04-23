@@ -1,3 +1,4 @@
+/* eslint-disable */
 var dgram = require('dgram');
 var events = require('events');
 var util = require('util');
